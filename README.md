@@ -1,7 +1,25 @@
-# Tauri + React
+# Kirby Game
 
-This template should help get you started developing with Tauri and React in Vite.
+A fun and interactive game named **Kirby**, developed using Tauri and powered by modern web technologies.
 
-## Recommended IDE Setup
+## Prerequisites
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+Ensure you have the required setup by following the [Tauri prerequisites guide](https://v2.tauri.app/start/prerequisites/).
+
+## Preview
+
+![Kirby Game Preview](image.png "Kirby Game Screenshot")
+
+## How to Run
+
+1. Clone the repository and navigate to the project directory.
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+Enjoy playing Kirby! 🎮
